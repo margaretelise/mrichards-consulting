@@ -1,0 +1,27 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "6e0Z6xLHLr7",
+  "title": "Logical Fallacies",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "B_5_Logical Falacies Interaction"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5gtDxD6IbjC",
+      "title": "Menu",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 950,
+    "height": 671
+  },
+  "stage": {
+    "width": 930,
+    "height": 600
+  }
+}

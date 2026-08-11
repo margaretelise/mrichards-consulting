@@ -1,0 +1,27 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "6B15Yzy4vcM_course_id",
+  "title": "B_5_Mental Models Character Interaction_MM_2023-10-12",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "B_5_Mental Model Interaction"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6g4am9qt846",
+      "title": "Menu",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1270,
+    "height": 780
+  },
+  "stage": {
+    "width": 1250,
+    "height": 709
+  }
+}

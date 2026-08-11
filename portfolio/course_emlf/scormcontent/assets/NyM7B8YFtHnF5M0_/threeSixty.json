@@ -1,0 +1,27 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "60CotND51Za_course_id",
+  "title": "B_5_Logical Fallacies Character Interaction_MM_NEW_2024",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "B_5_Logical Fallacies Character Interaction"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6g4am9qt846",
+      "title": "B_5_Logical Fallacies Character Interaction",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1270,
+    "height": 671
+  },
+  "stage": {
+    "width": 1250,
+    "height": 600
+  }
+}
